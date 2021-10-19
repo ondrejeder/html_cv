@@ -1,0 +1,21 @@
+
+body {
+    background-color: rgb(165, 192, 203);
+  }
+
+  hr {
+    
+    border-style: dotted none none none;
+    border-color: green;
+    border-width: 3px;
+    width: 90%;
+  }
+
+  h1,h3 {
+      color: blue;
+      outline: solid;
+      outline-color: black;
+      outline-width: 1px;
+      width: 12%;
+      text-align: center;
+  }
